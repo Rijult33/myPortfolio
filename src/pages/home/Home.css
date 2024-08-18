@@ -3,6 +3,8 @@
     margin: auto;
     display: flex;
     flex-direction: column;
+  
+    height: 47vw;
 
     .hnavbar{
         display: flex;

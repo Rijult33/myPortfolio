@@ -17,7 +17,6 @@ const Projects = () => {
         <Card name="Process Scheduler" imageUrl={img1} githubLink="https://github.com/Rijult33/cpu-scheduling-visualizer " liveLink="https://rijult33.github.io/cpu-scheduling-visualizer/ "></Card>
         <Card name="My Portfolio" imageUrl={img3} githubLink="https://github.com/Rijult33/myPortfolio" liveLink=""></Card>
       </div>
-        
     </div>
   )
 }
